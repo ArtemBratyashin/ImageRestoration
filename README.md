@@ -7,9 +7,12 @@ This program reconstructs a complete image from a set of separate fragments by c
 ## Example
 
 Given these image fragments:
+![Example image fragment](fragment.jpg)
 
 The program restores the original picture:
+![Result image](result.jpg)
 
 ## Demo
 
 You can run and test the code online without installing anything:
+**[Try it on OnlineGDB](https://onlinegdb.com/md1NL4gYP)**
