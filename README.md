@@ -7,10 +7,10 @@ This program reconstructs a complete image from a set of separate fragments by c
 ## Example
 
 Given these image fragments: <br>
-![Example image fragment](fragment.jpg)
+![Example image fragment](results/fragment.jpg)
 
 The program restores the original picture: <br>
-![Result image](result.jpg)
+![Result image](results/result.jpg)
 
 ## Demo
 
