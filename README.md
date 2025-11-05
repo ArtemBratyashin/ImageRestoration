@@ -16,3 +16,5 @@ The program restores the original picture: <br>
 
 You can run and test the code online without installing anything:
 **[Try it on OnlineGDB](https://onlinegdb.com/md1NL4gYP)**
+
+This is the first version of the program on C lang.
